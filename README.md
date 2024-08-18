@@ -9,4 +9,4 @@ In the real world, encryption is used for a variety of purposes. Data protection
 Features
   - Encrypts plaintext into ciphertext (encrypted text) then back into plaintext
   - Adds randomized bytes of data to the plaintext before encryption to make the ciphertext more secure [salting]
-  - 
+  - Uses AES 
