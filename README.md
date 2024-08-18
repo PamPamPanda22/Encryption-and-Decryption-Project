@@ -11,3 +11,6 @@ Features
   - Adds randomized bytes of data to the plaintext before encryption to make the ciphertext more secure [salting]
   - Uses AES 256
   - Coded in Python
+
+Requirements
+  - Install Python
